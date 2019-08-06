@@ -9,6 +9,7 @@ nav:
 - 博客:
     - '第一篇': blogs/index1.md
     - '第二篇': blogs/index2.md
+    - '第三篇': ['blogs/index01.md', 'blogs/index02.md']
 - 消息中心: 'msgcenterHelps.md'
 - 关于: 'about.md'
 # pages:
